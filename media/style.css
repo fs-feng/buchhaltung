@@ -1,0 +1,20 @@
+
+/* Serifenloser Font für ganze Seite */
+
+body					{ font-family: Verdana, sans-serif; }
+
+/* Schriftgrössen */
+
+p, td, th, li, h5		{ font-size: 10pt; }
+h4						{ font-size: 11pt; }
+h3						{ font-size: 12pt; }
+h2						{ font-size: 14pt; }
+h1						{ font-size: 16pt; }
+
+/* Tabellen */
+
+table					{ border-collapse: collapse }
+td, th					{ border: 1px solid #ffffff;
+						  padding: 2px 4px 2px 4px; }
+td						{ background-color: #d0e8ff; }
+th						{ background-color: #b0e0ff; }
